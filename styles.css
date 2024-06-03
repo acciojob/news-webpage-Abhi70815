@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+body{
+background-color:#f5f5f5;
+	width:100vw;
+}
+.header{
+background-color:#011e29;
+	color:white;
+}
+.flex{
+display:flex;
+	justify-content:center;
+	
+
+}
+.latest-news-section{
+background-color:gray;
+	padding:20px;
+	width:30%;
+	
+}
+
+.pictorial-news-section{
+background-color:yellow;
+	padding:14px;
+	width:30%;
+	text-align:center;
+	border-radius:10px;
+	
+	
+}
+.main-artical{
+width:40%;
+text-align:center;
+}
+img{
+	width:100px;
+	
+}
